@@ -6,3 +6,10 @@
 4、git push origin <分支名> -f
 ~~~
 
+> push到远程的提交，怎么变基到其他分支
+
+~~~
+rebase
+~~~
+
+
